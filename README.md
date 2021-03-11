@@ -1,5 +1,7 @@
 ## Departments (Sections) with users attached to them. 
 
+Project had been built using Laravel and VueJS.
+
 ## Installation
 
 0. Copy .env.example and rename to .env
